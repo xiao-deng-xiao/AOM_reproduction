@@ -1,0 +1,17 @@
+{
+    "train": [],
+    "val": [
+        [
+            "banded/banded_0060.jpg",
+            0,
+            "banded"
+        ]
+    ],
+    "test": [
+        [
+            "banded/banded_0060.jpg",
+            0,
+            "banded"
+        ]
+    ]
+}
